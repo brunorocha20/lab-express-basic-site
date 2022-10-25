@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(18, 18, 248, 0.703);
+    color: antiquewhite;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+}
+
+body li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+img {
+    width: 25vw;
+    height: 20vh;
+    padding: 13px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.titulo img {
+    width: 85vw;
+    height: 50vh;
+    padding: 13px;
+    align-items: center;
+    border-radius: 10px;
+}
