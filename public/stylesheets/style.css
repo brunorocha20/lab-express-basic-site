@@ -1,14 +1,54 @@
 body {
     background-color: rgba(18, 18, 248, 0.703);
     color: antiquewhite;
-    padding: 0px;
+    padding: 20px;
     margin: 0px;
     text-align: center;
     font-family: "Courier New", Courier, monospace;
+    font-size: 20px;
 }
 
 body li {
     list-style: none;
+}
+
+h3 {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+    color: rgb(255, 234, 0);
+}
+
+body ul {
+    padding-inline-start: 0px;
+}
+
+ul img {
+    padding: 10px;
+    border-radius: 30px;
+    width: 30vw;
+    height: 25vh;
+}
+
+.about-photo img {
+    padding: 10px;
+    border-radius: 30px;
+    width: 30vw;
+    height: 25vh;
+}
+
+.title-photo img {
+    padding: 10px;
+    border-radius: 30px;
+    width: 30vw;
+    height: 25vh;
+}
+
+.player-photo img {
+    padding: 10px;
+    border-radius: 30px;
+    width: 30vw;
+    height: 25vh;
 }
 
 a {
@@ -21,7 +61,7 @@ img {
     height: 20vh;
     padding: 13px;
     align-items: center;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .titulo img {
